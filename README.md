@@ -25,7 +25,7 @@ Tests should be written in [xunit](https://xunit.net/docs/getting-started/netcor
 
 **Database**
 
-[Dynamodb](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html)
+[Dynamodb](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 
 
 ### Access Puzzle Library
