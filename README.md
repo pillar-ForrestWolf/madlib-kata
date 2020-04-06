@@ -1,5 +1,5 @@
 # madlib-kata
-### This kata describes building a madlib style puzzle app
+### This kata describes building a madlib style puzzle app. These are often common fables where in some words have been removed. The player is expected to fill in the blanks with their own word using only the provided hint. See [MADLIBS](http://www.madlibs.com/printables/) for examples.
 
 In this app a user should have the ability to 
 * [access a puzzle library](#access-puzzle-library)
