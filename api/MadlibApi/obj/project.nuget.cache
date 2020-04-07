@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "yFjccapAFkdfxTjkBbOUmemnYw1/8BVm+/J3JW9kgmeyMUOUJNvBM/Ykt0Na8CFaGt+JrzFp6pSV0iyM0Dze8A==",
+  "dgSpecHash": "rBGhss/wo2K1tPM3DzMGwhDN97lOcSf9BEsWj8ee/OEGMXxQM7vlfdoLdAguWZY5reRJyNGmWbqANL7+LUNXhg==",
   "success": true,
-  "projectFilePath": "/Users/forrest.wolf/code-projects/madlib-kata/MadlibApi/MadlibApi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/forrest.wolf/code-projects/madlib-kata/api/MadlibApi/MadlibApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/forrest.wolf/.nuget/packages/microsoft.entityframeworkcore/5.0.0-preview.2.20159.4/microsoft.entityframeworkcore.5.0.0-preview.2.20159.4.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0-preview.2.20159.4/microsoft.entityframeworkcore.abstractions.5.0.0-preview.2.20159.4.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0-preview.2.20159.4/microsoft.entityframeworkcore.analyzers.5.0.0-preview.2.20159.4.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.entityframeworkcore.inmemory/5.0.0-preview.2.20159.4/microsoft.entityframeworkcore.inmemory.5.0.0-preview.2.20159.4.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.2/microsoft.extensions.caching.abstractions.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.caching.memory/3.1.2/microsoft.extensions.caching.memory.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.configuration/3.1.2/microsoft.extensions.configuration.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.2/microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.configuration.binder/3.1.2/microsoft.extensions.configuration.binder.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.2/microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.2/microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.logging/3.1.2/microsoft.extensions.logging.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.2/microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.options/3.1.2/microsoft.extensions.options.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/microsoft.extensions.primitives/3.1.2/microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/forrest.wolf/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
