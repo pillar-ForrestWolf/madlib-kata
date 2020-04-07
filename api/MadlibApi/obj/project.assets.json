@@ -14,17 +14,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/forrest.wolf/code-projects/madlib-kata/MadlibApi/MadlibApi.csproj",
+      "projectUniqueName": "/Users/forrest.wolf/code-projects/madlib-kata/api/MadlibApi/MadlibApi.csproj",
       "projectName": "MadlibApi",
-      "projectPath": "/Users/forrest.wolf/code-projects/madlib-kata/MadlibApi/MadlibApi.csproj",
+      "projectPath": "/Users/forrest.wolf/code-projects/madlib-kata/api/MadlibApi/MadlibApi.csproj",
       "packagesPath": "/Users/forrest.wolf/.nuget/packages/",
-      "outputPath": "/Users/forrest.wolf/code-projects/madlib-kata/MadlibApi/obj/",
+      "outputPath": "/Users/forrest.wolf/code-projects/madlib-kata/api/MadlibApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/forrest.wolf/.nuget/NuGet/NuGet.Config"
+        "/Users/forrest.wolf/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
