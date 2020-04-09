@@ -35,5 +35,40 @@ namespace MadlibApi.Controllers
 
             return CreatedAtAction(nameof(GetPuzzles), new { id = puzzle.Id }, puzzle);
         }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutPuzzle(long id, Puzzle puzzle)
+        {
+            if (id != puzzle.Id)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(puzzle).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!PuzzleExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+
+        private bool PuzzleExists(long id)
+        {
+            return _context.Puzzles.Any(e => e.Id == id);
+        }
     }
 }
