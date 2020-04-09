@@ -28,7 +28,7 @@ namespace MadlibApi.Controllers
         }
         
         [HttpPost]
-        public async Task<ActionResult<Puzzle>> PostTodoItem(Puzzle puzzle)
+        public async Task<ActionResult<Puzzle>> PostPuzzle([FromBody] Puzzle puzzle)
         {
             _context.Puzzles.Add(puzzle);
             await _context.SaveChangesAsync();
